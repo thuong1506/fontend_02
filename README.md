@@ -1,3 +1,3 @@
 # fontend_02
 
-vo hoang phuong thao
+how to use this project
